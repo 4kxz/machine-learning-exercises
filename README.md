@@ -1,4 +1,1 @@
-machine-learning
-================
-
-Machine Learning programming exercies.
+[Machine Learning](https://www.coursera.org/course/ml) programming exercises.
